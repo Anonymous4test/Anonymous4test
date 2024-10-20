@@ -9,7 +9,6 @@
 *.pdf
 *.dvi
 
-/thirdparty/
 /lib/
 /bin/
 Makefile
