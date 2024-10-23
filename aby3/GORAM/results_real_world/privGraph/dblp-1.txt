@@ -1,0 +1,126 @@
+v : 524288
+e : 719820
+b : 2
+l : 195509
+k : 262144
+se : 1024
+pe : 32
+sn : 32
+pn : 16
+Time taken by OuttingEdgesCountQuery: 71.665 milliseconds
+Time taken by NeighborsGetQuery: 187.773 milliseconds
+Time taken by NodeOramInit: 159.343 milliseconds
+Time taken by GraphLoad: 279.07 milliseconds
+Time taken by EdgeOramInit: 153.422 milliseconds
+Time taken by EdgeExistQuery: 65.867 milliseconds
+Communications of EdgeExistQuery_recv Party - 0 : 3.13701 MB
+Communications of EdgeExistQuery_recv Party - 1 : 3.13701 MB
+Communications of EdgeExistQuery_recv Party - 2 : 3.13701 MB
+Total Communications of EdgeExistQuery_recv : 9.41103 MB
+Communications of EdgeExistQuery_send Party - 0 : 3.13701 MB
+Communications of EdgeExistQuery_send Party - 1 : 3.13701 MB
+Communications of EdgeExistQuery_send Party - 2 : 3.13701 MB
+Total Communications of EdgeExistQuery_send : 9.41103 MB
+Communications of EdgeOramInit_recv Party - 0 : 7.2e-05 MB
+Communications of EdgeOramInit_recv Party - 1 : 25.0252 MB
+Communications of EdgeOramInit_recv Party - 2 : 25.0252 MB
+Total Communications of EdgeOramInit_recv : 50.0505 MB
+Communications of EdgeOramInit_send Party - 0 : 12.5126 MB
+Communications of EdgeOramInit_send Party - 1 : 25.0252 MB
+Communications of EdgeOramInit_send Party - 2 : 12.5126 MB
+Total Communications of EdgeOramInit_send : 50.0505 MB
+Communications of GraphLoad_recv Party - 0 : 12.5126 MB
+Communications of GraphLoad_recv Party - 1 : 12.5126 MB
+Communications of GraphLoad_recv Party - 2 : 12.5126 MB
+Total Communications of GraphLoad_recv : 37.5377 MB
+Communications of GraphLoad_send Party - 0 : 12.5126 MB
+Communications of GraphLoad_send Party - 1 : 12.5126 MB
+Communications of GraphLoad_send Party - 2 : 12.5126 MB
+Total Communications of GraphLoad_send : 37.5377 MB
+Communications of NeighborsGetQuery_recv Party - 0 : 12.4154 MB
+Communications of NeighborsGetQuery_recv Party - 1 : 18.6717 MB
+Communications of NeighborsGetQuery_recv Party - 2 : 18.6717 MB
+Total Communications of NeighborsGetQuery_recv : 49.7589 MB
+Communications of NeighborsGetQuery_send Party - 0 : 15.5436 MB
+Communications of NeighborsGetQuery_send Party - 1 : 18.6717 MB
+Communications of NeighborsGetQuery_send Party - 2 : 15.5436 MB
+Total Communications of NeighborsGetQuery_send : 49.7589 MB
+Communications of NodeOramInit_recv Party - 0 : 4e-05 MB
+Communications of NodeOramInit_recv Party - 1 : 25.0252 MB
+Communications of NodeOramInit_recv Party - 2 : 25.0252 MB
+Total Communications of NodeOramInit_recv : 50.0504 MB
+Communications of NodeOramInit_send Party - 0 : 12.5126 MB
+Communications of NodeOramInit_send Party - 1 : 25.0252 MB
+Communications of NodeOramInit_send Party - 2 : 12.5126 MB
+Total Communications of NodeOramInit_send : 50.0504 MB
+Communications of OuttingEdgesCountQuery_recv Party - 0 : 9.33601 MB
+Communications of OuttingEdgesCountQuery_recv Party - 1 : 12.4642 MB
+Communications of OuttingEdgesCountQuery_recv Party - 2 : 12.4642 MB
+Total Communications of OuttingEdgesCountQuery_recv : 34.2643 MB
+Communications of OuttingEdgesCountQuery_send Party - 0 : 15.5923 MB
+Communications of OuttingEdgesCountQuery_send Party - 1 : 9.33601 MB
+Communications of OuttingEdgesCountQuery_send Party - 2 : 9.33601 MB
+Total Communications of OuttingEdgesCountQuery_send : 34.2643 MB
+v : 524288
+e : 719820
+b : 2
+l : 211751
+k : 262144
+se : 1024
+pe : 32
+sn : 32
+pn : 16
+Time taken by OuttingEdgesCountQuery: 72.355 milliseconds
+Time taken by NeighborsGetQuery: 170.679 milliseconds
+Time taken by NodeOramInit: 156.907 milliseconds
+Time taken by GraphLoad: 294.875 milliseconds
+Time taken by EdgeOramInit: 171.916 milliseconds
+Time taken by EdgeExistQuery: 64.486 milliseconds
+Communications of EdgeExistQuery_recv Party - 0 : 3.39482 MB
+Communications of EdgeExistQuery_recv Party - 1 : 3.39482 MB
+Communications of EdgeExistQuery_recv Party - 2 : 3.39482 MB
+Total Communications of EdgeExistQuery_recv : 10.1845 MB
+Communications of EdgeExistQuery_send Party - 0 : 3.39482 MB
+Communications of EdgeExistQuery_send Party - 1 : 3.39482 MB
+Communications of EdgeExistQuery_send Party - 2 : 3.39482 MB
+Total Communications of EdgeExistQuery_send : 10.1845 MB
+Communications of EdgeOramInit_recv Party - 0 : 7.2e-05 MB
+Communications of EdgeOramInit_recv Party - 1 : 27.1042 MB
+Communications of EdgeOramInit_recv Party - 2 : 27.1041 MB
+Total Communications of EdgeOramInit_recv : 54.2084 MB
+Communications of EdgeOramInit_send Party - 0 : 13.5521 MB
+Communications of EdgeOramInit_send Party - 1 : 27.1042 MB
+Communications of EdgeOramInit_send Party - 2 : 13.5521 MB
+Total Communications of EdgeOramInit_send : 54.2084 MB
+Communications of GraphLoad_recv Party - 0 : 13.5521 MB
+Communications of GraphLoad_recv Party - 1 : 13.5521 MB
+Communications of GraphLoad_recv Party - 2 : 13.5521 MB
+Total Communications of GraphLoad_recv : 40.6562 MB
+Communications of GraphLoad_send Party - 0 : 13.5521 MB
+Communications of GraphLoad_send Party - 1 : 13.5521 MB
+Communications of GraphLoad_send Party - 2 : 13.5521 MB
+Total Communications of GraphLoad_send : 40.6562 MB
+Communications of NeighborsGetQuery_recv Party - 0 : 13.4467 MB
+Communications of NeighborsGetQuery_recv Party - 1 : 20.2227 MB
+Communications of NeighborsGetQuery_recv Party - 2 : 20.2227 MB
+Total Communications of NeighborsGetQuery_recv : 53.8921 MB
+Communications of NeighborsGetQuery_send Party - 0 : 16.8347 MB
+Communications of NeighborsGetQuery_send Party - 1 : 20.2227 MB
+Communications of NeighborsGetQuery_send Party - 2 : 16.8347 MB
+Total Communications of NeighborsGetQuery_send : 53.8921 MB
+Communications of NodeOramInit_recv Party - 0 : 4e-05 MB
+Communications of NodeOramInit_recv Party - 1 : 27.1042 MB
+Communications of NodeOramInit_recv Party - 2 : 27.1041 MB
+Total Communications of NodeOramInit_recv : 54.2084 MB
+Communications of NodeOramInit_send Party - 0 : 13.5521 MB
+Communications of NodeOramInit_send Party - 1 : 27.1042 MB
+Communications of NodeOramInit_send Party - 2 : 13.5521 MB
+Total Communications of NodeOramInit_send : 54.2084 MB
+Communications of OuttingEdgesCountQuery_recv Party - 0 : 10.1115 MB
+Communications of OuttingEdgesCountQuery_recv Party - 1 : 13.4996 MB
+Communications of OuttingEdgesCountQuery_recv Party - 2 : 13.4996 MB
+Total Communications of OuttingEdgesCountQuery_recv : 37.1106 MB
+Communications of OuttingEdgesCountQuery_send Party - 0 : 16.8876 MB
+Communications of OuttingEdgesCountQuery_send Party - 1 : 10.1115 MB
+Communications of OuttingEdgesCountQuery_send Party - 2 : 10.1115 MB
+Total Communications of OuttingEdgesCountQuery_send : 37.1106 MB
