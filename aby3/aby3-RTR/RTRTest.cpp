@@ -177,7 +177,6 @@ int test_eq(CLP &cmd) {
       }
 
       sbMatrix eq_res;
-      // fanxy: test eq function.
       // cipher_eq(i, sharedA, sharedB, eq_res, eval, runtime);
       circuit_cipher_eq(i, sharedA, sharedB, eq_res, eval, runtime);
 
