@@ -100,62 +100,7 @@ RUN PERMUTATION NETWORK TEST
 <span style="color: green;">PERMUTATION NETWORK CHECK SUCCESS ! </span>
 
 RUN SQRT-ORAM Position Map TEST
-<span style="color: green;">PosMap - linear case  SUCCESS!</span>
-
-<span style="color: green;">PosMap - recursive case  SUCCESS!</span>
-
-<span style="color: green;">PosMap - recursive case stash miss SUCCESS!</span>
-
-<span style="color: green;">PosMap - recursive case stash hit SUCCESS!</span>
-
-RUN SQRT-ORAM TEST
-<span style="color: green;">SQRT-ORAM test SUCCESS!</span>
-
-RUN Graph Loading TEST
-<span style="color: green;">The secure graph is the same as the plaintext graph. </span>
-
-RUN AdjGraph loading TEST
-<span style="color: green;">The secure graph is the same as the plaintext graph. </span>
-
-<span style="color: green;">The secure graph is the same as the plaintext graph. </span>
-
-RUN Multiple Graph Sort TEST
-<span style="color: green;">The secure graph is the same as the plaintext graph. </span>
-
-<span style="color: green;">The secure graph is the same as the plaintext graph. </span>
-
-RUN Graph Block Fetch TEST
-<span style="color: green;">Edge block fetch test SUCCESS!</span>
-
-<span style="color: green;">Node chunk fetch test SUCCESS!</span>
-
-RUN Basic Graph Query TEST
-<span style="color: green;">Basic graph query exist edge test SUCCESS!</span>
-
-<span style="color: green;">Basic graph query fake edge test SUCCESS!</span>
-
-<span style="color: green;">Outting edges count node 0 test SUCCESS!</span>
-
-<span style="color: green;">Outting edges count node 10 test SUCCESS!</span>
-
-RUN Basic Graph Neighbor Find Query TEST
-<span style="color: green;">Basic graph query neighbors sort test SUCCESS!</span>
-
-RUN AdjGraph basic query TEST
-<span style="color: green;">AdjGraph basic query edge existence test SUCCESS!</span>
-
-<span style="color: green;">AdjGraph basic query neighbor count test SUCCESS!</span>
-
-<span style="color: green;">AdjGraph basic query neighbor count arith test SUCCESS!</span>
-
-<span style="color: green;">AdjGraph basic query neighbor find test SUCCESS!</span>
-
-RUN Node-Edge List Basic Query TEST
-<span style="color: green;">Node-Edge List basic query edge existence test SUCCESS!</span>
-
-<span style="color: green;">Node-Edge List basic query neighbor count test SUCCESS!</span>
-
-<span style="color: green;">Node-Edge List basic query neighbor find sort test SUCCESS!</span>
+and other tests ...
 </code></pre>
 
 

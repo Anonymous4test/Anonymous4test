@@ -26,6 +26,10 @@ out/
 *.dtx
 *.ipynb
 ./privGraph/*.ipynb
+./GORAM/results/
+*__pycache__
+./GORAM/results_offline/
+./GORAM/results_real_world/
 
 x64/*
 .vs/*
