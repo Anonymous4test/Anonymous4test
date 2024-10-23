@@ -9,7 +9,11 @@
 *.pdf
 *.dvi
 
-/thirdparty/
+/thirdparty/eigen-3.3.4/
+/thirdparty/function2/
+/thirdparty/json/
+/thirdparty/libOTe/
+/thirdparty/unix/
 /lib/
 /bin/
 Makefile
